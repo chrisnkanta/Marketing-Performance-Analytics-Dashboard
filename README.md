@@ -2,7 +2,7 @@
 
 ## Dashboard Preview
 
-![Marketing Performance Analytics Dashboard]([images/marketing-dashboard.png](https://github.com/chrisnkanta/Marketing-Performance-Analytics-Dashboard/blob/main/Screenshot%202026-10-26%20131018.png))
+![Marketing Performance Analytics Dashboard](https://github.com/chrisnkanta/Marketing-Performance-Analytics-Dashboard/blob/main/Screenshot%202026-10-26%20131018.png)
 
 ## Project Overview
 
