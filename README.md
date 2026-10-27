@@ -1,5 +1,9 @@
 # Marketing Performance Analytics Dashboard | Power BI
 
+## Dashboard Preview
+
+![Marketing Performance Analytics Dashboard](images/marketing-dashboard.png)
+
 ## Project Overview
 
 This project uses Microsoft Power BI to analyze a simulated marketing campaign dataset covering four regions, four products, and four marketing channels from January 2023 to November 2024.
